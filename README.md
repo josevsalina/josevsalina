@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @josevsp
 - 👀 I’m interested in backed development, cloud computing and web3
-- 🌱 I’m currently learning graphql
-- 💞️ I’m looking to collaborate on fausis system
+- 🌱 I’m currently learning Solidity
 - 📫 How to reach me: josevalentinsp@gmail.com
 
 <!---
