@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @josevsalina
-- 👀 I’m interested in backed development, cloud computing and web3
+- 👀 I’m interested in backed development, cloud computing and AI
 - 🌱 I’m currently learning Solidity
 - 📫 How to reach me: josevalentinsp@gmail.com
 
