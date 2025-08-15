@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josevsalina
 - 👀 I’m interested in backed development, cloud computing and AI
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning python and machine learning
 - 📫 How to reach me: josevalentinsp@gmail.com
 
 <!---
